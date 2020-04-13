@@ -7,6 +7,11 @@
 3. 语义分析:AST 处理
 4. ......
 
+## 概念
+
+- [Recursive descent parser](https://en.wikipedia.org/wiki/Recursive_descent_parser)
+- [Top-Down operator precedence parsing](https://eli.thegreenplace.net/2010/01/02/top-down-operator-precedence-parsing)
+
 ## Lisp 解释器实现
 
 - [Lisp interpreter in 90 lines of C++](http://howtowriteaprogram.blogspot.com/2010/11/lisp-interpreter-in-90-lines-of-c.html)
@@ -25,3 +30,16 @@
 ## 表达式运算
 
 - [Evaluating Expressions](https://mariusbancila.ro/blog/2009/02/03/evaluating-expressions-part-1/)
+
+## 教程
+
+- [Write your own compiler - Introduction](https://blog.klipse.tech/javascript/2017/02/08/tiny-compiler-intro.html)
+
+- [Lexical Analysis](https://hackernoon.com/lexical-analysis-861b8bfe4cb0)
+- [Implementing Lexers and Parsers](http://www.cse.chalmers.se/edu/year/2015/course/DAT150/lectures/proglang-04.html)
+
+## 参考
+
+- [从零开始用 Go 实现 Lexer & Parser](https://myslide.cn/slides/17269#)
+- [Go 语言设计与实现](https://draveness.me/golang/docs/part1-prerequisite/ch02-compile/golang-compile-intro/)
+- [A programming Language interpreter, in C++](https://www.reddit.com/r/cpp/comments/fvkb66/a_programming_language_interpreter_in_c/)
