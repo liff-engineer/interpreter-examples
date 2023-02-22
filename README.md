@@ -26,7 +26,7 @@
   [源代码](https://github.com/percolate/pratt-parser)
 - [让 Go 很容易手写 Parser](https://zhuanlan.zhihu.com/p/34161576)
 - [Simple Top-Down Parsing in Python](http://effbot.org/zone/simple-top-down-parsing.htm)
-
+- [Simple but Powerful Pratt Parsing](https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html#Simple-but-Powerful-Pratt-Parsing)
 ## 表达式运算
 
 - [Evaluating Expressions](https://mariusbancila.ro/blog/2009/02/03/evaluating-expressions-part-1/)
@@ -36,6 +36,7 @@
 - [Write your own compiler - Introduction](https://blog.klipse.tech/javascript/2017/02/08/tiny-compiler-intro.html)
 
 - [Lexical Analysis](https://hackernoon.com/lexical-analysis-861b8bfe4cb0)
+- [Lexical Analysis (Analyzer) in Compiler Design with Example](https://www.guru99.com/compiler-design-lexical-analysis.html)
 - [Implementing Lexers and Parsers](http://www.cse.chalmers.se/edu/year/2015/course/DAT150/lectures/proglang-04.html)
 
 ## 参考
